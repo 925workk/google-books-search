@@ -1,10 +1,10 @@
 import React from 'react';
-import Navbar from '../components/Navbar'
+import Navbarsaved from '../components/Navbarsaved';
 
 const Saved = () => {
     return (
         <div>
-            <Navbar />
+            <Navbarsaved />
         </div>
     )
 }

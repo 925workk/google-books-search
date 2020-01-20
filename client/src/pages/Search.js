@@ -1,11 +1,11 @@
 import React from 'react';
-import Navbar from '../components/Navbar';
+import Navbarhome from '../components/Navbarhome';
 import Searchjumbo from '../components/Searchjumbo';
 
 const Search = () => {
     return (
         <div>
-            <Navbar />
+            <Navbarhome />
             <Searchjumbo />
         </div>
     )
